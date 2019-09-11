@@ -1,1 +1,1 @@
-Velkommen til mit githubrepo made by Mads Dufour
+*welcome to my github repo* **by Mads Dufour**
